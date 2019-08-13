@@ -1,5 +1,5 @@
 ![Image of Yaktocat](https://octodex.github.com/images/mummytocat.gif)
-# heroku-test
+# line-bot
 
 ## Tool Stack Version :fire::fire::fire:
 ```bash
@@ -11,6 +11,8 @@ $ npm -v
 
 $ heroku -v
 heroku/7.19.4 win32-x64 node-v11.3.0
+
+@line/bot-sdk: ^6.7.0
 ```
 
 ## Installing
